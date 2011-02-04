@@ -1,0 +1,6 @@
+\definecolor{rrblitbackground}{rgb}{0.0, 0.0, 0.0}
+
+\title[Ad Serving in Erlang]{Ad Serving in Erlang}
+\author[Bob Ippolito]{Bob Ippolito\\Mochi Media, Inc.}
+\institute[EUC 2008]{Erlang User Conference 2008 - Stockholm}
+\date{November 13, 2008}
